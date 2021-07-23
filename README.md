@@ -3,6 +3,7 @@
 Hotel Management System
 
 each use case and files needed to reproduce are put in zip files
+We have added a document with output screenshots in it if the code cannot be reproduced.
 
 Mongo Cluster details :mongodb+srv://namita:mongodb@cluster0.tn7xj.mongodb.net/Hotel_database?retryWrites=true&w=majority
 
