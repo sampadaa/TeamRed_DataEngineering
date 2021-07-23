@@ -30,3 +30,5 @@ collection : transaction.json
 file name - Hotel_pricing_code.ipynb
 data hosted locally 
 files to be imported in db : hotel_data.json, booking_data.json, location_data.json, prices.json, room_details.json
+
+#redis data is stored in redis data.zip
